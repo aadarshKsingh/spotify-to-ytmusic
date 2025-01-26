@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "spotify-web-api-node": "^5.0.2",
-    "ytmusic-api": "^5.2.2"
+    "spotify-url-info": "^5.0.2",
+    "ytmusic-api": "^3.2.18"
   },
   "devDependencies": {
     "eslint": "^8.45.0"
